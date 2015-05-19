@@ -52,10 +52,13 @@ nav ul li a {
     padding: .5em 1em;
     background: skyblue;
     border-radius: 15px;
+    text-decoration: none;
 }
 
 nav ul li a:hover {
+    text-decoration: underline;
     background: deepskyblue;
+    font-weight: bold;
 }
 
 /* Misc.
