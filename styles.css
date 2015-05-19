@@ -39,11 +39,11 @@ padding-top: 6em;
 -------------------------------*/
 
 nav ul{
-    margin: 2em;
     padding: 0;
 }
 
 nav ul li {
+    margin: 2em;
     float: left;
     margin-right: .5em;
     list-style: none;
